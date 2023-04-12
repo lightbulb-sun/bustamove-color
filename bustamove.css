@@ -1,0 +1,43 @@
+body {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 10px;
+    font: 18px/1.5 Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    color: #222;
+}
+
+.container {
+    gap: 30px;
+}
+
+.flex {
+    display: flex;
+    gap: 0px;
+}
+
+.centered {
+    width: 250px;
+    margin: auto;
+}
+
+.caption {
+    text-align: center;
+    font-weight: bold;
+}
+
+#download-button {
+    font-size: 20px;
+    padding: 10px 20px;
+}
+
+li {
+    padding: 0.2em;
+}
+
+input {
+    font-size: 20px;
+}
+
+.range {
+    width: 20em;
+}
